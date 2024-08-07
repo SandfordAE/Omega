@@ -29,15 +29,3 @@ Functionality such as:
 - and more...
 
 &nbsp;  
-
-## Credits
-
-This app is heavily structured from the information derived from the  
-
-***[CFE](https://youtu.be/WbNNESIxJnY?feature=shared) Python Tutorial: Build a SaaS App with Django***  
-and the  
-***[BugBites](https://www.youtube.com/playlist?list=PL-2EBeDYMIbSBjHGYJYl1WLUT-tbCLHOb) Django & HTMX Course tutorial***.
-
-***
-
-&nbsp;
